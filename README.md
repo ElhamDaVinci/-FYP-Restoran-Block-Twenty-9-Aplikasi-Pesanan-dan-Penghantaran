@@ -4,12 +4,12 @@
 
 ### 1) Customer panel
 
-![Image](https://github.com/zahiruddinzainal/ClientServerJAVA/blob/master/screenshots/server.PNG)
+![Image](asas)
 
 ### 2) Staff panel
 
-![Image](https://github.com/zahiruddinzainal/ClientServerJAVA/blob/master/screenshots/client.PNG)
+![Image](asasas)
 
 ### 3) Admin panel
 
-![Image](https://github.com/zahiruddinzainal/ClientServerJAVA/blob/master/screenshots/client.PNG)
+![Image](asasa)
