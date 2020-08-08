@@ -1,6 +1,6 @@
 # FYP-Restoran-Block-Twenty-9-Aplikasi-Pesanan-dan-Penghantaran
 
-## Watch the promo vedeo here [Click me](https://www.youtube.com/watch?v=MXFrId5Nyhg).
+## Watch the promo video here [Click me](https://www.youtube.com/watch?v=MXFrId5Nyhg).
 
 ### 1) Customer panel
 
