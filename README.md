@@ -1,8 +1,8 @@
 # FYP-Restoran-Block-Twenty-9-Aplikasi-Pesanan-dan-Penghantaran
 
-## Here is the screenshot of the app
+## Watch the promo here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MXFrId5Nyhg/0.jpg)](https://www.youtube.com/watch?v=MXFrId5Nyhg)
+[![Projek Sarjana Muda Zahiruddin Zainal](https://img.youtube.com/vi/MXFrId5Nyhg/0.jpg)](https://www.youtube.com/watch?v=MXFrId5Nyhg)
 
 ### 1) Customer panel
 
