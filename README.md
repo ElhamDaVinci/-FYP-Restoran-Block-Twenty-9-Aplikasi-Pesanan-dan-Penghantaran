@@ -12,4 +12,4 @@
 
 ### 3) Admin panel
 
-![Image](asasa)
+![Image](https://github.com/zahiruddinzainal/-FYP-Restoran-Block-Twenty-9-Aplikasi-Pesanan-dan-Penghantaran/blob/master/panel%20admin.png)
