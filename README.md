@@ -8,7 +8,7 @@
 
 ### 2) Staff panel
 
-![Image](asasas)
+![Image](https://github.com/zahiruddinzainal/-FYP-Restoran-Block-Twenty-9-Aplikasi-Pesanan-dan-Penghantaran/blob/master/panel%20pekerja.png)
 
 ### 3) Admin panel
 
