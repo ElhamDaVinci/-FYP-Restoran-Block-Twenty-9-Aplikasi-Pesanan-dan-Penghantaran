@@ -1,6 +1,6 @@
 # FYP-Restoran-Block-Twenty-9-Aplikasi-Pesanan-dan-Penghantaran
 
-## Watch the promo here [Click the thumbnail]
+## Watch the promo here
 
 [![Projek Sarjana Muda Zahiruddin Zainal](https://img.youtube.com/vi/MXFrId5Nyhg/0.jpg)](https://www.youtube.com/watch?v=MXFrId5Nyhg)
 
