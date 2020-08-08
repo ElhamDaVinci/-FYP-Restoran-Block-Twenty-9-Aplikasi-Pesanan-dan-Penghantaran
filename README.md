@@ -2,7 +2,7 @@
 
 ## Here is the screenshot of the app
 
-[![Watch the video](https://www.youtube.com/watch?v=MXFrId5Nyhg)
+[![Watch the video](http://img.youtube.com/vi/MXFrId5Nyhg/maxresdefault.jpg)](https://www.youtube.com/watch?v=MXFrId5Nyhg)
 
 ### 1) Customer panel
 
