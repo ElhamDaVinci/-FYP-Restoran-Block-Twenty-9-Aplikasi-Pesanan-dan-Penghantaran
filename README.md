@@ -4,7 +4,7 @@
 
 ### 1) Customer panel
 
-![Image](asas)
+![Image](https://github.com/zahiruddinzainal/-FYP-Restoran-Block-Twenty-9-Aplikasi-Pesanan-dan-Penghantaran/blob/master/panel%20pelanggan.png)
 
 ### 2) Staff panel
 
